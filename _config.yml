@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: JTD Test
+description: Testing this template
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://dystro.github.io/jtd-test
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/dystro/jtd-test
