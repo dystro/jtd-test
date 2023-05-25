@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Modules
-nav_order: 4
+parent: Home
+nav_order: 2
 ---
 
 # Modules
